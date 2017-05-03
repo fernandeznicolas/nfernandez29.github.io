@@ -1,27 +1,19 @@
-_site/
-.sass-cache/
-.jekyll-metadata
 <html>
 <head>
-<title>Seccionar Espacios con Tablas</title>
-</head>
-<body>
-<Table border=1 width=100% bgcolor=yellow>
-<Tr> 
-<Td colspan=3><h2>Manejo de tablas</h2></Td></Tr>
-<Tr bgcolor=orange> 
-<Td rowspan=4>
-<OL><li>las filas son con TR</li>
-<li>las celdas con TD</li>
-<li>Todasla tabla con TABLE</li>
-</OL>
-</Td><Td>100</Td><Td bgcolor=green>30</Td></Tr>
-<Tr> 
-<Td>90</Td><Td>100</Td></Tr>
-<Tr> 
-<Td>46</Td><Td>70</Td></Tr>
-<Tr> 
-<Td>78</Td><Td>23</Td></Tr>
-</Table>
-</body>
-</html>
+<table>
+<Table border=1 width=100% bgcolor=black>
+<tr>	
+<td><font color=white>deportes</td>
+<td><font color=white>entretenimiento</td>
+<td><font color=white>futbol</td>
+<td><font color=white>gastronomia</td>
+<td><font color=white>Donde</td>
+<td><font color=white>radio</td>
+<td><font color=white>turismo</td>
+<td><font color=white>technologia</td>
+</tr>
+<table>
+
+<tr>
+<td>musica</td> <td>musica</td>.
+</tr>
